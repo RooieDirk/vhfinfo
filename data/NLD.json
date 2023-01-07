@@ -3288,6 +3288,57 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johan Friso sluis",
+        "callname": "Johan Friso sluis",
+        "type": "lock",
+        "channel": 18,
+        "url": "https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/43520",
+        "phone": "+31514681480",
+        "vhfdata": {
+          "generic": {
+            "mode": "report"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.362299084663,
+              52.878856083509
+            ],
+            [
+              5.362379550934,
+              52.878713635981
+            ],
+            [
+              5.362240076065,
+              52.878389889858
+            ],
+            [
+              5.362706780434,
+              52.878331615299
+            ],
+            [
+              5.363650918007,
+              52.878567950524
+            ],
+            [
+              5.363430976868,
+              52.879076228769
+            ],
+            [
+              5.362299084663,
+              52.878856083509
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
